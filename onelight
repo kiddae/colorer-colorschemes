@@ -18,4 +18,4 @@ color7 #383A42
 color15 #797d8d
 wp ~/Pictures/Wallpapers/misc/liana-mikah-4RTAF3Z-0zM-unsplash.jpg
 vim one
-lightline one
+airline one

@@ -18,3 +18,4 @@ fg #444444
 bg #eeeeee
 wp /home/me/Pictures/Wallpapers/misc/liana-mikah-4RTAF3Z-0zM-unsplash.jpg
 vim PaperColor
+airline PaperColor

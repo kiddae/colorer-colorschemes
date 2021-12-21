@@ -16,5 +16,6 @@ color14 #8fbcbb
 color15 #eceff4
 fg #d8dee9
 bg #2e3440
-wp /home/me/Pictures/Wallpapers/misc/pattern1-nord.png
+wp /home/me/Pictures/Wallpapers/anime/colorized/wallhaven-vg6dqp.jpg
 vim nord
+airline nord_minimal
