@@ -16,6 +16,6 @@ color14 #8fbcbb
 color15 #eceff4
 fg #d8dee9
 bg #2e3440
-wp /home/louise/Pictures/Wallpapers/anime/colorized/wallhaven-vg6dqp.jpg
+wp ~/Pictures/Wallpapers/yeule.jpg
 vim nord
 airline nord_minimal
