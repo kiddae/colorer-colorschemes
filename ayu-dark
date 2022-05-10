@@ -17,3 +17,6 @@ color15 #ffffff
 bg #0f1419
 fg #e6e1cf
 vim ayu
+wp /home/louise/Pictures/Wallpapers/pattern1-ayudark.png
+ayu_theme dark
+gtk Flat-Remix-GTK-Cyan-Darkest

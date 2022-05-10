@@ -17,3 +17,6 @@ color15 #ffffff
 bg #212733
 fg #cbccc6
 vim ayu
+wp /home/louise/Pictures/Wallpapers/pattern1-ayumirage.png
+ayu_theme mirage
+gtk Flat-Remix-GTK-Cyan-Dark
