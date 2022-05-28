@@ -17,4 +17,5 @@ color14 #89DCEB
 color7 #D9E0EE
 color15 #D9E0EE
 wp ~/Pictures/Wallpapers/pink-cat.png
+wp_mode fill
 vim catppuccin

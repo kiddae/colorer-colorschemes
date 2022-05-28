@@ -16,5 +16,6 @@ color14 #8ec07c
 color15 #ebdbb2
 fg #ebdbb2
 bg #282828
-wp /home/louise/Pictures/Wallpapers/misc/coffee2.jpg
+wp ~/Pictures/Wallpapers/florest-stair.jpg
+wp_mode fill
 vim gruvbox

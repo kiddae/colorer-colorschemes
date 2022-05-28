@@ -16,7 +16,8 @@ color12 #61afef
 color13 #c678dd
 color14 #56b6c2
 color15 #3e4452
-wp /home/louise/Pictures/Wallpapers/pattern1-onedark.png
+wp /home/louise/Pictures/Wallpapers/boc.jpg
+wp_mode center
 vim one
 airline one
 gtk Adwaita-One-Dark

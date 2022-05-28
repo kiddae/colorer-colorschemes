@@ -17,3 +17,6 @@ color13 #5a32a3
 color14 #3192aa
 color15 #d1d5da
 vim github_light
+wp ~/Pictures/Wallpapers/bla.png
+wp_mode center
+gtk Flat-Remix-GTK-Grey-Light

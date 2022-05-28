@@ -1,7 +1,8 @@
 vim ayu
 ayu_theme light
 gtk Flat-Remix-GTK-Cyan-Light
-wp ~/Pictures/Wallpapers/pattern1-ayu.png
+wp ~/.config/colorer/boc.jpg
+wp_mode center
 fg #6c7680
 bg #fafafa
 color0 #ffffff

@@ -17,5 +17,7 @@ color7 #eeffff
 color14 #a3f7ff
 color15 #ffffff
 wp ~/Pictures/Wallpapers/umbrella.jpg
+wp_mode fill
+gtk oomox-material
 vim material
 airline material

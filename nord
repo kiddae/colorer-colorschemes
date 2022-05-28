@@ -17,5 +17,6 @@ color15 #eceff4
 fg #d8dee9
 bg #2e3440
 wp ~/Pictures/Wallpapers/yeule.jpg
+wp_mode fill
 vim nord
 airline nord_minimal
